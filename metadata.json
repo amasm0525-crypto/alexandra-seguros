@@ -1,0 +1,6 @@
+{
+  "name": "Alexandra Aguacia - Asesora de Seguros",
+  "description": "Protección familiar con Seguros de Vida, IUL y Protección Hipotecaria pensados para familias hispanas en EE.UU. Alexandra Aguacia te asesora paso a paso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
